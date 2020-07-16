@@ -9,7 +9,12 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".cpr"></activity>
+        <activity android:name=".poison"></activity>
+        <activity android:name=".nosebleed" />
+        <activity android:name=".heat" />
+        <activity android:name=".heartattack" />
+        <activity android:name=".bites" />
+        <activity android:name=".cpr" />
         <activity android:name=".home" />
         <activity android:name=".MainActivity">
             <intent-filter>
