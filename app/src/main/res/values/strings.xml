@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">first aid kit</string>
+    <string name="cpr">1. Position your hand (below)\nMake sure the patient is lying on his back on a firm surface. Kneel beside him and place the heel of your hand on the center of the chest.\n
+    2. Interlock fingers (below)\n
+    Keeping your arms straight, cover the first hand with the heel of your other hand and interlock the fingers of both hands together. Keep your fingers raised so they do not touch the patient’s chest or rib cage.\n
+    3. Give chest compressions (below)\n
+    Lean forward so that your shoulders are directly over the patient’s chest and press down on the chest about two inches. Release the pressure, but not your hands, and let the chest come back up.\n
+    5. Give rescue breaths (below)\n
+    Pinch the nostrils closed with the hand that was on the forehead and support the patient’s chin with your other hand. Take a normal breath, put your mouth over the patient’s, and blow until you can see his chest rise.\n
+    6. Watch chest fall\n
+    Remove your mouth from the patient’s and look along the chest, watching the chest fall. Repeat steps five and six once. Make sure your child memorizes these CPR steps</string>
 </resources>
