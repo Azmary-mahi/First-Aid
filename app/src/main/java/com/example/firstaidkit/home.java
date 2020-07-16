@@ -47,19 +47,19 @@ public class home extends AppCompatActivity {
         button3.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                moveToActivityThree();
+                moveToActivityFive();
             }
         });
         button4.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                moveToActivityFour();
+                moveToActivitySix();
             }
         });
         button5.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                moveToActivityFour();
+                moveToActivitySeven();
             }
         });
 
@@ -76,15 +76,15 @@ public class home extends AppCompatActivity {
         Intent intent3=new Intent(this,heartattack.class);
         startActivity(intent3);
     }
-    public void moveToActivityTow(){
+    public void moveToActivityFive(){
         Intent intent4=new Intent(this,heat.class);
         startActivity(intent4);
     }
-    public void moveToActivityThree(){
+    public void moveToActivitySix(){
         Intent intent5=new Intent(this,nosebleed.class);
         startActivity(intent5);
     }
-    public void moveToActivityFour(){
+    public void moveToActivitySeven(){
         Intent intent6=new Intent(this,poison.class);
         startActivity(intent6);
     }
