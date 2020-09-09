@@ -77,7 +77,29 @@ Untreated, heat exhaustion can lead to heatstroke, which is a life-threatening c
 > Monitor the person carefully.\n
 Contact a doctor if signs or symptoms worsen or if they don't improve within one hour.\n\n
 
+    </string>
 
-        </string>
+    <string name="poison">When to suspect poisoning:\n
+Poisoning signs and symptoms can mimic other conditions, such as seizure, alcohol intoxication, stroke and insulin reaction. Signs and symptoms of poisoning may include:\n
+
+> Burns or redness around the mouth and lips\n
+> Breath that smells like chemicals, such as gasoline or paint thinner\n
+> Vomiting\n
+> Difficulty breathing\n
+> Drowsiness\n
+> Confusion or other altered mental status\n
+ If you suspect poisoning, be alert for clues such as empty pill bottles or packages, scattered pills, and burns, stains and odors on the person or nearby objects. With a child, consider the possibility that he or she may have applied medicated patches or swallowed a button battery.\n\n
+    What to do while waiting for help?\n
+Take the following actions until help arrives:\n
+
+> Swallowed poison. Remove anything remaining in the person\'s mouth. If the suspected poison is a household cleaner or other chemical, read the container's label and follow instructions for accidental poisoning.\n
+> Poison on the skin. Remove any contaminated clothing using gloves. Rinse the skin for 15 to 20 minutes in a shower or with a hose.\n
+> Poison in the eye. Gently flush the eye with cool or lukewarm water for 20 minutes or until help arrives.\n
+> Inhaled poison. Get the person into fresh air as soon as possible.\n
+> If the person vomits, turn his or her head to the side to prevent choking.\n
+> Begin CPR if the person shows no signs of life, such as moving, breathing or coughing.\n
+> Have somebody gather pill bottles, packages or containers with labels, and any other information about the poison to send along with the ambulance team.   \n
+
+    </string>
 
 </resources>
