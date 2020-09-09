@@ -102,4 +102,15 @@ Take the following actions until help arrives:\n
 
     </string>
 
+    <string name="nosebleed">Nosebleeds are common. Most often they are a nuisance and not a true medical problem. But they can be both.\n
+        Nosebleed care:\n
+        1. Stop the Bleeding:\n
+> Have the person sit up straight and lean forward slightly. Don\'t have the person lie down or tilt the head backward.\n
+> With thumb and index finger, firmly pinch the nose just below the bone up against the face.\n
+> Apply pressure for 5 minutes. Time yourself with a clock.\n
+> If bleeding continues after 5 minutes, repeat the process.\n
+
+
+        </string>
+
 </resources>
