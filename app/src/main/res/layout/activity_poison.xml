@@ -20,7 +20,7 @@
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="40dp"
-                android:text="Nose Bleeding"
+                android:text="Poison"
                 android:textSize="30dp"
                 android:textAlignment="center"
                 android:gravity="center_horizontal"
@@ -29,14 +29,14 @@
             <ImageView
                 android:layout_width="match_parent"
                 android:layout_height="800px"
-                android:background="@drawable/nosebleed2"
-                android:layout_marginTop="30dp"/>
+                android:background="@drawable/poison2"
+                android:layout_marginTop="20dp"/>
 
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:layout_marginTop="90px"
-                android:text="@string/nosebleed"
+                android:text="@string/poison"
                 android:textColor="#000000"
                 android:textSize="25dp"/>
 
