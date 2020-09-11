@@ -154,7 +154,6 @@
                             android:background="@drawable/poison"
                             android:textSize="36sp" />
 
-
                     </RelativeLayout>
 
                 </androidx.cardview.widget.CardView>

@@ -25,6 +25,7 @@ public class homeTest {
     @Before
     public void setUp() throws Exception {
         mActivity=mActivityTestRule.getActivity();
+
     }
     @Test
     public void testLaunchOfcprOnButtonClick()
