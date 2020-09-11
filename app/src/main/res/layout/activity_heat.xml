@@ -21,22 +21,22 @@
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="40dp"
-                android:fontFamily="sans-serif-black"
+                android:fontFamily="sans-serif-medium"
                 android:gravity="center_horizontal"
                 android:text="Heat and Cold"
                 android:textAlignment="center"
-                android:textColor="#A80D0D"
+                android:textColor="#CF4868"
                 android:textSize="30dp" />
             <ImageView
                 android:layout_width="match_parent"
                 android:layout_height="800px"
                 android:background="@drawable/cold"
-                android:layout_marginTop="30dp"/>
+                android:layout_marginTop="1mm"/>
 
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
-                android:layout_marginTop="90px"
+                android:layout_marginTop="0px"
                 android:text="@string/heatcold"
                 android:textColor="#000000"
                 android:textSize="25dp"/>
