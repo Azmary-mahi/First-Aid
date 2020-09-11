@@ -25,6 +25,7 @@
             android:textAlignment="center"
             android:gravity="center_horizontal"
             android:fontFamily="sans-serif-black"
+            android:id="@+id/text2"
             />
         <ImageView
             android:layout_width="match_parent"

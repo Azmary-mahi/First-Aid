@@ -17,15 +17,17 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:orientation="vertical">
+
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="40dp"
-                android:text="Poison"
-                android:textSize="30dp"
-                android:textAlignment="center"
-                android:gravity="center_horizontal"
                 android:fontFamily="sans-serif-black"
-                />
+                android:gravity="center_horizontal"
+                android:text="Poison"
+                android:textAlignment="center"
+                android:textColor="#3A3434"
+                android:textSize="30dp" />
+
             <ImageView
                 android:layout_width="match_parent"
                 android:layout_height="800px"
@@ -35,7 +37,7 @@
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
-                android:layout_marginTop="90px"
+                android:layout_marginTop="20px"
                 android:text="@string/poison"
                 android:textColor="#000000"
                 android:textSize="25dp"/>
