@@ -13,7 +13,6 @@
         android:textAlignment="center"
         android:textColor="#F8FAFA"
         android:textSize="45dp"
-
         android:fontFamily="serif-monospace"
         android:gravity="center_horizontal" />
     <ScrollView
