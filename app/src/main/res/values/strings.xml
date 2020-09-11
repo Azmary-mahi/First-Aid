@@ -50,11 +50,8 @@ If you think someone is having a heart attack:\n
 > DO NOT wait to see if the symptoms go away.\n
 > DO NOT give the person anything by mouth unless a heart medicine (such as nitroglycerin) has been prescribed.\n
         </string>
-
     <string name="heatcold">HEAT AND COLD TREATMENT:\n
-        Heat exhaustion is one of the heat-related syndromes. Symptoms range in severity from mild heat cramps to heat exhaustion to potentially life-threatening heatstroke. Heat exhaustion can begin suddenly or over time, usually after working or playing in the heat, perspiring heavily, or being dehydrated.
-
-Heat and Cold exhaustion signs and symptoms include:\n
+        Heat and Cold exhaustion signs and symptoms include:\n
 
 > Cool, moist skin with goose bumps when in the heat\n
 > Heavy sweating\n
@@ -75,9 +72,10 @@ Untreated, heat exhaustion can lead to heatstroke, which is a life-threatening c
 > Have the person drink cool water or other nonalcoholic beverage without caffeine.\n
 > Cool the person by spraying or sponging with cool water and fanning.\n
 > Monitor the person carefully.\n
-Contact a doctor if signs or symptoms worsen or if they don't improve within one hour.\n\n
+Contact a doctor if signs or symptoms worsen or if they don't improve within one hour.
 
     </string>
+
 
     <string name="poison">When to suspect poisoning:\n
 Poisoning signs and symptoms can mimic other conditions, such as seizure, alcohol intoxication, stroke and insulin reaction. Signs and symptoms of poisoning may include:\n
